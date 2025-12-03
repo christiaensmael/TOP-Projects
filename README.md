@@ -1,4 +1,4 @@
-#The Odin Project - Project Folder
+The Odin Project - Project Folder
 
 Fist assignment:
 Odin Recipes is a project that I needed to code to
