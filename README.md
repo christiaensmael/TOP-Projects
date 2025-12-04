@@ -1,13 +1,22 @@
-The Odin Project - Project Folder
+# The Odin Project - Assignments
+
+In this repository you'll find all the assignments I've coded while I'm following "The Odin Project" curriculum.
 
 Fist assignment:
-Odin Recipes is a project that I needed to code to
-resume on The Odin Project curriculum. Hereby I needed
-to code a basic website with some recipes of my choosing.
+Odin Recipes is the first assignment of 'The Odin Project" curriculum. For this assignment I needed to learn the basics of HTML, So that I could code a simple recipes website with a homepage and some recipe pages.
 
-For this project I needed to know the basics of HTML so I could code a
-- Homepage with title and links to the recipes
-- Recipe page including a picture, description, ingredients method and a
-button with a link to go back to the home page.
-main
+On the homepage I needed to code:
+- A header for the title 
+- Links to the recipes
+
+On the recipe page I needed to code:
+- A header for the title
+- An image of the dish
+- A header for the description
+- A paragraph for the description
+- A header for the ingredients
+- an unordered list for the ingredients
+- a header for the steps
+- a ordered list for the steps
+- a link to the homepage
 
